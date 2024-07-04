@@ -1,0 +1,48 @@
+{
+  "gadgets": [
+    {
+      "id": 1,
+      "itemName": "Mobile",
+      "brandName": "Vivo",
+      "units": 5,
+      "price": 13000,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "itemName": "Car",
+      "brandName": "BMW",
+      "units": 5,
+      "price": 100000000,
+      "rating": 2
+    },{
+      "id": 3,
+      "itemName": "Fridge",
+      "brandName": "Samsung",
+      "units": 5,
+      "price": 13000000,
+      "rating": 1
+    },{
+      "id": 4,
+      "itemName": "Air Conditioner",
+      "brandName": "LG",
+      "units": 5,
+      "price": 100000,
+      "rating": 4
+    },{
+      "id": 5,
+      "itemName": "Bike",
+      "brandName": "Suzuki",
+      "units": 5,
+      "price": 130000,
+      "rating": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Some comment",
+      "postId": 1
+    }
+  ]
+}
